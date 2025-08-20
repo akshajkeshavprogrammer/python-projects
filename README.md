@@ -4,6 +4,13 @@
 This repo is where I drop all the Python projects I’ve been building.
 Some are from my earlier coding days, and from today (20/08/2025) onwards everything new goes here too — so you’ll see my progress from beginner experiments to real projects.
 
+## How to Run a Project
+`bash
+git clone https://github.com/akshajkeshavprogrammer/python-projects.git  
+cd python-projects  
+python calculator.py   # or any other .py file
+
+
 🚀 Projects
 🔹 Past Projects
 
