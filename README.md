@@ -84,5 +84,8 @@ And this was my first project doing so. Used ChatGPT Go (father's subscription) 
 They are marvoulous. Windsurf thinks as faster than my brain, so my problem-solving, without insane manual typing. It works like magic
 I used Gemini Code Assist as a tutor/optimiser and haven't used it for vibe-coding, and I don't need to. This project specifically, I asked to act like a tutor, gave it instructions step by step, first asked it to make roadmap of coding tic-tac-toe, then slowly I used it to help me understand steps. Important thing I did was I never gave it permission to edit my code, nor to make code. It gave me nice little hints
 This was one of my most productive use of coding with AI. Didn't incounter bottleneck or limits with AI, and felt I was backed up by a senior software tutor.
-Result, you ask?
+Result, you ask? I ended up making this supernicely coded Tic_tac_toe.py, 68 lines of battle tested code, within an hour.
+It has virtually unbreakable logic. The thing is, I could have vibe coded this in some short seconds, but- Coding WITH AI (focus on "WITH") made me learn so many new things, so much faster. No vibe-coder can replace practical knowledge and thinking process.
+
+
 
