@@ -60,3 +60,29 @@ Write cleaner code that looks pro — so one day, I’ll laugh at how noob my ol
 Not just learning for the sake of it — I’m building skills to create things people actually use.
 
 ⚡ Reminder: This repo is alive. Check back later and you’ll see the glow-up continue.
+
+
+
+Update- 
+So, here I am, back after 9 months
+Let's cut the crap, this all was basically just AI. I made with repo with AI. Not the python projects though, that was me.
+Anyways, what i did 9 months-
+1)Learned more python
+2)Learned C++
+3)Got into real world thinking, made projects/products using Arduino and ESP... 
+So, basically, from here on out, everything else is same, just a better mindset, a better approach, and an older me :)
+
+Projects----
+
+1) Tic tac toe, 8 May 2026
+Basically, my comeback project. 
+Important notes-
+Earlier, I did full vibe-coding (just AI) or manual coding. But the rise of AI, has forced me to code, not from AI, but WITH AI.
+Spent quite a few days tryna find a free VSCode AI that will boast everything. I tried loads and loads of stuff... Either it was too dumb AI, the limits were bad, or there were timeouts.
+Then I came to the ultimate AI system - Windsurf + Gemini Code Assist. And I quickly found that both are insanely generous and powerful, perfect for a 14yr old boy with no money.
+And this was my first project doing so. Used ChatGPT Go (father's subscription) to help connect these tools.
+They are marvoulous. Windsurf thinks as faster than my brain, so my problem-solving, without insane manual typing. It works like magic
+I used Gemini Code Assist as a tutor/optimiser and haven't used it for vibe-coding, and I don't need to. This project specifically, I asked to act like a tutor, gave it instructions step by step, first asked it to make roadmap of coding tic-tac-toe, then slowly I used it to help me understand steps. Important thing I did was I never gave it permission to edit my code, nor to make code. It gave me nice little hints
+This was one of my most productive use of coding with AI. Didn't incounter bottleneck or limits with AI, and felt I was backed up by a senior software tutor.
+Result, you ask?
+
